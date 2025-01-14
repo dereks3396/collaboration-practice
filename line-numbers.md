@@ -6,7 +6,7 @@ night
 #### 6
 Added some text to line 7
 #### 8
-Github is really good.
+GitHub is awesome.
 #### 10
 #### 11
 #### 12
